@@ -1,0 +1,9 @@
+{
+	"id": "pipeliner",
+	"name": "Pipeliner",
+	"version": "0.1.0",
+	"minAppVersion": "1.4.0",
+	"description": "Bulk-add properties to selected notes.",
+	"author": "John Vining",
+	"isDesktopOnly": false
+}
